@@ -1,0 +1,4 @@
+db/application.db
+db/application
+node_modules
+.env
